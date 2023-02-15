@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 0.5f'\n' $NUM
+printf 2.31'\n' $NUM
